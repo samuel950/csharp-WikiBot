@@ -1,0 +1,11 @@
+C:\Users\Samuel\Desktop\SamuelUpstream\WikiBot\obj\Debug\netcoreapp2.1\WikiBot.csprojAssemblyReference.cache
+C:\Users\Samuel\Desktop\SamuelUpstream\WikiBot\obj\Debug\netcoreapp2.1\WikiBot.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\SamuelUpstream\WikiBot\obj\Debug\netcoreapp2.1\WikiBot.AssemblyInfoInputs.cache
+C:\Users\Samuel\Desktop\SamuelUpstream\WikiBot\obj\Debug\netcoreapp2.1\WikiBot.AssemblyInfo.cs
+C:\Users\Samuel\Desktop\SamuelUpstream\WikiBot\bin\Debug\netcoreapp2.1\WikiBot.deps.json
+C:\Users\Samuel\Desktop\SamuelUpstream\WikiBot\bin\Debug\netcoreapp2.1\WikiBot.runtimeconfig.json
+C:\Users\Samuel\Desktop\SamuelUpstream\WikiBot\bin\Debug\netcoreapp2.1\WikiBot.runtimeconfig.dev.json
+C:\Users\Samuel\Desktop\SamuelUpstream\WikiBot\bin\Debug\netcoreapp2.1\WikiBot.dll
+C:\Users\Samuel\Desktop\SamuelUpstream\WikiBot\bin\Debug\netcoreapp2.1\WikiBot.pdb
+C:\Users\Samuel\Desktop\SamuelUpstream\WikiBot\obj\Debug\netcoreapp2.1\WikiBot.dll
+C:\Users\Samuel\Desktop\SamuelUpstream\WikiBot\obj\Debug\netcoreapp2.1\WikiBot.pdb
